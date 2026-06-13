@@ -1,12 +1,7 @@
-<div align="center">
+
 
 # ▸ hi 👋 i'm vivian peng
 
-`computer science student` • `software automation engineering intern`
-
-</div>
-
----
 
 ## about me
 
@@ -22,33 +17,9 @@
 
 ☁️ interests
 game dev • UI/UX design • product management • health tech
-
-👾 hobbies
-piano • sketching (with pen) • listening to science podcasts • indie & horror games
 ```
-
----
-
-## tech stack
-
-```text
-languages:
-python • java • javascript • html • css • sql
-
-frameworks / libraries:
-react • pandas • playwright • selenium
-
-tools / platforms:
-git • github • vscode • intellij • pycharm • jira • confluence • postman • linux
-```
-
----
-
 ## connect
 
 💌 email: [vivianzhqpeng@gmail.com](mailto:vivianzhqpeng@gmail.com)  
 🔗 linkedin: [linkedin.com/in/vivianzhqpeng](https://www.linkedin.com/in/vivianzhqpeng)  
 
-<div align="center">
-
-</div>
