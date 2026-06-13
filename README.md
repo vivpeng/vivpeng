@@ -11,7 +11,7 @@
 ## about me
 
 ```text
-🎓 computer science @ UBC
+📚 computer science @ University of British Columbia
 
 💼 software engineering intern @ Royal Bank of Canada
 → test automation (Playwright • Python)
@@ -23,7 +23,7 @@
 ☁️ interests
 game dev • product management • UI/UX design • health tech
 
-🎹 hobbies
+👾 hobbies
 piano • sketching (with pen) • listening to science podcasts • indie & horror games
 ```
 
