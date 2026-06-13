@@ -1,6 +1,6 @@
 <div align="center">
 
-# ▸ hi 👋 i'm vivian zhuoqing peng
+# ▸ hi 👋 i'm vivian peng
 
 `computer science student` • `software automation engineering intern`
 
@@ -44,7 +44,7 @@ git • github • vscode • intellij • pycharm • jira • confluence • p
 
 ---
 
-## connect with me
+## connect
 
 💌 email: [vivianzhqpeng@gmail.com](mailto:vivianzhqpeng@gmail.com)  
 🔗 linkedin: [linkedin.com/in/vivianzhqpeng](https://www.linkedin.com/in/vivianzhqpeng)  
