@@ -14,25 +14,17 @@
 🎓 computer science @ UBC
 
 💼 software engineering intern @ Royal Bank of Canada
-└─ test automation (Playwright \ Python)
+→ test automation (Playwright • Python)
 
 🎮 current projects
-├─ story-based mystery game (w/ michelle)
-└─ illustration portfolio website for an artist
+→ story-based mystery game (w/ michelle)
+→ illustration portfolio website for an artist
 
-🎯 interests
-├─ game development
-├─ product management
-├─ UI/UX design
-└─ health tech
+☁️ interests
+game dev • product management • UI/UX design • health tech
 
 🎹 hobbies
-├─ piano
-├─ sketching (with pen)
-├─ listening to science podcasts
-└─ indie / horror games
-
-☁️ usually learning something new
+piano • sketching (with pen) • listening to science podcasts • indie / horror games
 ```
 
 ---
@@ -54,11 +46,9 @@ git • github • vscode • intellij • pycharm • jira • confluence • p
 
 ## connect with me
 
-```text
-💌 email: vivianzhqpeng@gmail.com
-💻 portfolio: working on it...
-🔗 linkedin: www.linkedin.com/in/vivianzhqpeng
-```
+💌 email: [vivianzhqpeng@gmail.com](mailto:vivianzhqpeng@gmail.com)  
+🔗 linkedin: [linkedin.com/in/vivianzhqpeng](https://www.linkedin.com/in/vivianzhqpeng)  
+💻 portfolio: i'm working on it...
 
 <div align="center">
 
