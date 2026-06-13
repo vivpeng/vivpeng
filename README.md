@@ -2,7 +2,7 @@
 
 # ▸ hi 👋 i'm vivian zhuoqing peng
 
-`computer science student` • `software engineering intern`
+`computer science student` • `software automation engineering intern`
 
 </div>
 
@@ -17,7 +17,7 @@
 → test automation (Playwright • Python)
 
 🎮 current projects
-→ story-based mystery game (w/ michelle)
+→ story-based mystery game
 → illustration portfolio website for an artist
 
 ☁️ interests
@@ -48,12 +48,7 @@ git • github • vscode • intellij • pycharm • jira • confluence • p
 
 💌 email: [vivianzhqpeng@gmail.com](mailto:vivianzhqpeng@gmail.com)  
 🔗 linkedin: [linkedin.com/in/vivianzhqpeng](https://www.linkedin.com/in/vivianzhqpeng)  
-💻 portfolio: i'm working on it...
 
 <div align="center">
-
-```text
-thanks for stopping by ♫
-```
 
 </div>
