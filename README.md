@@ -24,7 +24,7 @@
 game dev • product management • UI/UX design • health tech
 
 🎹 hobbies
-piano • sketching (with pen) • listening to science podcasts • indie / horror games
+piano • sketching (with pen) • listening to science podcasts • indie & horror games
 ```
 
 ---
