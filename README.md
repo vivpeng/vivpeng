@@ -21,7 +21,7 @@
 → illustration portfolio website for an artist
 
 ☁️ interests
-game dev • product management • UI/UX design • health tech
+game dev • UI/UX design • product management • health tech
 
 👾 hobbies
 piano • sketching (with pen) • listening to science podcasts • indie & horror games
