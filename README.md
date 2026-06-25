@@ -1,6 +1,6 @@
 
 
-# ▸ hi 👋 i'm vivian peng
+# ▸ hey! 👋 i'm vivian peng
 
 
 ## about me
@@ -12,10 +12,10 @@
 Playwright • Python • SQL
 
 🎮 current projects
-story-based mystery game • illustration portfolio website
+story-based mystery game • portfolio website
 
 ☁️ interests
-game dev • UI/UX design • product management • health tech
+game dev • UI/UX design • cybersecurity • health tech
 ```
 ## connect
 
