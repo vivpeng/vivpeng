@@ -8,14 +8,9 @@
 ```text
 📚 computer science @ University of British Columbia
 
-💼 software automation engineering intern @ Royal Bank of Canada
-Playwright • Python • SQL
-
 🎮 current projects
 story-based mystery game • portfolio website
 
-☁️ interests
-game dev • UI/UX design • cybersecurity • health tech
 ```
 ## connect
 
