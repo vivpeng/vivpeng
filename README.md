@@ -1,4 +1,4 @@
-# ▸ hey! 👋 i'm vivian
+# ▸ hey! i'm vivian
 
 📚 computer science @ university of british columbia
 
